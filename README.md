@@ -7,7 +7,7 @@ To develop an interactive, educational platform that visually simulates sorting 
 
 ---
 
-##  2. Key Features
+#  2. Key Features
 -  Visual Sorting Simulations
 -  Step-by-Step Narration: Real-time explanations of what’s happening
 -  Adaptive Explanations
@@ -30,13 +30,13 @@ To develop an interactive, educational platform that visually simulates sorting 
 
 ---
 
-## 🤖 4. Role of LLM in the Project
+# 4. Role of LLM in the Project
 
 The LLM dynamically generates step-by-step explanations of sorting processes based on real-time algorithm state, user interaction, and selected difficulty level.
 
 ---
 
-## 🏗 5. System Architecture Diagram (Text-based)
+#5. System Architecture Diagram (Text-based)
 ```
 [ User ]
 |
